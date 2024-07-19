@@ -1,2 +1,8 @@
 [db]
 db.ratnam.online.ratnam.online
+
+[backend]
+backend.ratnam.online.ratnam.online
+
+[frontend]
+ratnam.online
